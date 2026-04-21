@@ -6,7 +6,7 @@
         "jsx": "react-jsx",
         "baseUrl": ".",
         "paths": {
-            "@/*": ["src2/*"]
+            "@/*": ["src/*"]
         },
         "types": ["vite-plugin-svgr/client"],
         "resolveJsonModule": true,
